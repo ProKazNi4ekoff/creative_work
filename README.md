@@ -1,4 +1,7 @@
+
 <div align="center">
+  
+<img width="1664" height="928" alt="картинка_гит" src="https://github.com/user-attachments/assets/55227539-2ae7-40a4-9a75-5f5756401248" />
 
 # Система умной двери для питомца
 

@@ -208,6 +208,6 @@ classDiagram
 
 <div align="center">
 
-**Система умной двери для питомца** · CatDoor Virtual v2 · Qt 6 + C++
+**Система умной двери для питомца** · Qt 6 + C++
 
 </div>

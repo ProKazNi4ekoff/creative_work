@@ -1,7 +1,7 @@
 
 <div align="center">
   
-<img width="200" height="200" alt="картинка_гит" src="https://github.com/user-attachments/assets/c7d9879e-719e-49c5-8fc6-111f10abe5bd & border_radius=30" />
+<img width="200" height="200" alt="картинка_гит" src="https://github.com/user-attachments/assets/c7d9879e-719e-49c5-8fc6-111f10abe5bd & border_radius=10" />
 
 # Система умной двери для питомца
 
